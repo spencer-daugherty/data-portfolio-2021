@@ -1,3 +1,0 @@
-from IPython.display import YouTubeVideo
-
-YouTubeVideo('vieKDN2H5Tc')
